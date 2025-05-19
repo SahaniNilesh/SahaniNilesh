@@ -16,3 +16,11 @@ I'm Sahani Nilesh Data Analysis || Data preparation || Data Visualization I am a
 <p align="left">
 <a href="https://linkedin.com/in///linkedin.com/in/nilesh-sahani-549bb228a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="//linkedin.com/in/nilesh-sahani-549bb228a" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahaninilesh&show_icons=true&locale=en&layout=compact" alt="sahaninilesh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahaninilesh&show_icons=true&locale=en" alt="sahaninilesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahaninilesh&" alt="sahaninilesh" /></p>
