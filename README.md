@@ -12,3 +12,6 @@ I'm Sahani Nilesh Data Analysis || Data preparation || Data Visualization I am a
 
 📫 How to reach me: sahanisahaninilesh@gmail.com Let's connect on LinkedIn to discuss more on Data Analytics. My Linkedin Porfile-https://linkedin.com/in/nilesh-sahani-549bb228
 
+<p align="left">
+<a href="https://linkedin.com/in///linkedin.com/in/nilesh-sahani-549bb228a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="//linkedin.com/in/nilesh-sahani-549bb228a" height="30" width="40" /></a>
+</p>
